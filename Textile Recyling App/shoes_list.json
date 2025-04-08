@@ -1,0 +1,69 @@
+{
+  "locations1": [
+    {
+       "id":0,
+            "Items_Accepted":"Christian Church Of Canarsie",
+            "latitude": 40.6424,
+            "longitude":-73.90993
+            
+        },
+        {
+            "id":1,
+            "Items_Accepted":"Usagain LLC",
+            "latitude": 40.83659,
+            "longitude":-73.9278
+            
+        },
+        {
+            "id":2,
+            "Items_Accepted":"Planet Aid",
+            "latitude":40.63412,
+            "longitude":-74.08648
+        },
+        {
+            "id":3,
+            "Items_Accepted":"Community Recycling LLC",
+            "latitude":40.61481,
+            "longitude":-74.06644
+            
+        },
+        {
+            "id":4,
+            "Items_Accepted":"Carecycle Inc",
+            "latitude": 40.67093 ,
+            "longitude":-73.77412
+        },
+        {
+            "id":5,
+            "Items_Accepted":"Planet Aid",
+            "latitude": 40.52655,
+            "longitude":-74.16738
+        },
+        {
+            "id":7,
+            "Items_Accepted":"Planet Aid",
+            "latitude": 40.74403,
+            "longitude":-73.91456
+        },
+        {
+            "id":8,
+            "Items_Accepted":"Helpsy",
+            "latitude":40.73808,
+            "longitude":-73.8861
+        },
+        {
+            "id":9,
+            "Items_Accepted":"Helpsy",
+            "latitude":40.62799,
+            "longitude":-73.92747
+        },
+        {
+            "id":6,
+            "Items_Accepted":"American Recycling Technologies Inc.",
+            "latitude":40.82045,
+            "longitude":-73.92674
+            
+        }
+
+     ]
+     }

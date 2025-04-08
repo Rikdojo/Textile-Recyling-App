@@ -1,0 +1,62 @@
+[
+   {
+      "id":0,
+      "Address":"606 E 89 St",
+      "Items_Accepted":"Clothing, Shoes, Accessories, Coats, Bedding And Linens",
+      "Vendor_Name":"Christian Church Of Canarsie"
+   },
+   {
+      "id":4,
+      "Address":"137-42 Guy R Brewer Blvd",
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "Vendor_Name":"Helpsy"
+   },
+   {
+      "id":5,
+      "Address":"4844 Hylan Blvd",
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels, Other",
+      "Vendor_Name":"American Recycling Technologies Inc."
+   },
+   {
+      "id":6,
+      "Address":"611 Grand Concourse",
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "Vendor_Name":"Helpsy"
+   },
+   {
+      "id":7,
+      "Address":"50-15 Roosevelt Ave",
+      "Items_Accepted":"Clothing, Shoes, Coats, Towels",
+      "Vendor_Name":"Carecycle Inc"
+   },
+   {
+      "id":9,
+      "Address":"1809 Utica Ave",
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "Vendor_Name":"Helpsy"
+   },
+   {
+      "id":10,
+      "Address":"82-10 Queens Blvd",
+      "Items_Accepted":"Clothing, Shoes, Coats",
+      "Vendor_Name":"New Life Community Development Corporation"
+   },
+   {
+      "id":11,
+      "Address":"349 E 149 St",
+      "Items_Accepted":"Clothing, Shoes, Accessories, Coats",
+      "Vendor_Name":"Directions for Our Youth, Inc."
+   },
+   {
+      "id":12,
+      "Address":"292 Neptune Ave",
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels",
+      "Vendor_Name":"Spin Green, LLC"
+   },
+   {
+      "id":13,
+      "Address":"1640 Flatbush Ave",
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels, Other",
+      "Vendor_Name":"American Recycling Technologies Inc."
+   }
+]

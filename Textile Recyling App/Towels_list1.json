@@ -1,0 +1,65 @@
+{
+  "locations1": [
+    {
+      "id":4,
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "latitude":40.67093,
+      "longitude":-73.77412
+   },
+   {
+      "id":5,
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels, Other",
+      "latitude":40.52655,
+      "longitude":-74.16738
+   },
+   {
+      "id":6,
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "latitude":40.82045,
+      "longitude":-73.92674
+   },
+   {
+      "id":7,
+      "Items_Accepted":"Clothing, Shoes, Coats, Towels",
+      "latitude":40.74403,
+      "longitude":-73.91456
+   },
+   {
+      "id":9,
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "latitude":40.62799,
+      "longitude":-73.92747
+   },
+   {
+      "id":12,
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels",
+      "latitude":40.58115,
+      "longitude":-73.96376
+   },
+   {
+      "id":13,
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Bedding, Towels, Other",
+      "latitude":40.63036,
+      "longitude":-73.94542
+   },
+   {
+      "id":16,
+      "Items_Accepted":"Clothing, Shoes, Coats, Towels",
+      "latitude":40.6154,
+      "longitude":-73.91435
+   },
+   {
+      "id":17,
+      "Items_Accepted":"Clothing, Shoes, Accessories, Bedding and linens, Towels, Coats",
+      "latitude":40.67657,
+      "longitude":-73.82006
+   },
+   {
+      "id":18,
+      "Items_Accepted":"Clothing, Shoes, Coats, Accessories, Beddings And Linens, Towels, Rugs",
+      "latitude":40.72003,
+      "longitude":-73.80373
+   }
+
+]
+}

@@ -1,0 +1,44 @@
+{
+  "locations": [
+    {
+        "id":0,
+        "name":"Brooklyn",
+        "latitude":40.6424,
+        "longitude":-73.90993
+    },
+    {
+        "id":4,
+        "name":"Brooklyn",
+        "latitude":40.62799,
+        "longitude":-73.92747
+
+    },
+    {
+        "id":2,
+        "name":"Brooklyn",
+        "latitude":40.58115,
+        "longitude":-73.96376
+    },
+    {
+      "id": 3,
+      "name": "Atlanta",
+      "latitude": 33.74,
+      "longitude": -84.38
+    },
+    {
+        "id":13,
+                "name":"Brooklyn",
+                "latitude":40.63036,
+                "longitude":-73.94542
+
+    },
+    
+    {
+      "id": 5,
+      "name": "Brooklyn",
+      "latitude": 40.58115,
+      "longitude": -73.96376
+
+    }
+  ]
+}
